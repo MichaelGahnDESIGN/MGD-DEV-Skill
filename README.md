@@ -113,8 +113,7 @@ dieser lokalen Dokumentation.
 
 ## Installation in Claude Code
 
-In vielen Claude-Code-Setups liegen persönliche Skills in einem Claude-Skill-
-Ordner.
+In vielen Claude-Code-Setups liegen persönliche Skills in einem Claude-Skill-Ordner.
 
 Beispiel:
 
@@ -179,7 +178,7 @@ Systeme verändern.
 Der Skill führt den Agenten durch neun Bereiche:
 
 1. Projektkontext und Regeln laden.
-2. Lokale, remote und deployte Stände vergleichen.
+2. Lokale, entfernte und veröffentlichte Stände vergleichen.
 3. Git, GitHub und Branches einordnen.
 4. Tests, Builds und allgemeine Smoke-Checks ausführen.
 5. Browser- und Playwright-Smokes sicher prüfen.
