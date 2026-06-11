@@ -224,6 +224,25 @@ So kann derselbe DEV-Skill in unterschiedlichen Projekten funktionieren, währen
 jedes Projekt seine eigenen Pfade, Testbefehle, Server, Risiken und Freigaben
 sauber dokumentiert.
 
+## Weitere Dokumentation
+
+Im [Wiki](https://github.com/MichaelGahnDESIGN/DEV-Skill/wiki) findest du
+zusätzliche Erklärungen und konkrete Workflows, zum Beispiel für
+Backup-Verwaltung, Speicherplatz sparen, Release-Checks und Browser-Smokes.
+
+## Verwandte Projekte
+
+Der DEV-Skill gehört zu meinem größeren Arbeitsumfeld rund um strukturierte
+AI-Projekte und Agenten-Workflows.
+
+- [AI-Basic-Projektordner](https://github.com/MichaelGahnDESIGN/AI-Basic-Projektordner):
+  Eine Projektordner-Vorlage für die Arbeit mit ChatGPT Codex, Claude Code und
+  weiteren AI-Agenten.
+
+- [Claude-Codex-MCP](https://github.com/MichaelGahnDESIGN/Claude-Codex-MCP):
+  Mein lokales MCP-System für Aufgaben, Übergaben und Zusammenarbeit zwischen
+  Claude, Codex und weiteren KI-Agenten.
+
 ## Beiträge und Forks
 
 Wenn du den Skill anpasst oder forkst, achte bitte darauf, dass er
